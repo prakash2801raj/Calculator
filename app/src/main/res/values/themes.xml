@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Calculator" parent="Theme.AppCompat">
+
+    </style>
+
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator" />
+</resources>
